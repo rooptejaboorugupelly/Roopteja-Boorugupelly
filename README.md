@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -179,7 +178,6 @@ Whether it's modernizing legacy systems, creating intuitive user interfaces, or 
     <p>© 2024 Roopteja Boorugupelly</p>
   </footer>
 </body>
-
 
 
  
