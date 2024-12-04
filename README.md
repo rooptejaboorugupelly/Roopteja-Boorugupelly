@@ -177,7 +177,6 @@ Whether it's modernizing legacy systems, creating intuitive user interfaces, or 
   <footer>
     <p>© 2024 Roopteja Boorugupelly</p>
   </footer>
-</body>
 
 
  
