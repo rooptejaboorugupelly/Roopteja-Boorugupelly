@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>    <h1>Roopteja Boorugupelly</h1>
+  <header>    <h1>portfolio</h1>
     <p>.NET Full Stack Developer</p>
     <p>📱 +13144725704 | ✉️ boorugupellyroopteja@gmail.com</p>
   </header>
@@ -179,7 +179,7 @@ Whether it's modernizing legacy systems, creating intuitive user interfaces, or 
     <p>© 2024 Roopteja Boorugupelly</p>
   </footer>
 </body>
-</html>
+
 
 
  
