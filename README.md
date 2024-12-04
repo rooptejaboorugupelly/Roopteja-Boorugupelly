@@ -108,7 +108,6 @@ Whether it's modernizing legacy systems, creating intuitive user interfaces, or 
 
   <li><strong>Design Patterns:</strong></li>
   <li>MVC</li>
-  </section>
  <section id="experience" class="section">
   <h2>Client Experiences</h2>
 
@@ -172,7 +171,6 @@ Whether it's modernizing legacy systems, creating intuitive user interfaces, or 
   <section id="education">
     <h2>Education</h2>
     <p>Master of Arts (MA) in Information Technology Management – Webster University</p>
-    <p>BTECH Civil Engineering – Geetanjali College of Engineering and Technology</p>
   </section>
   <footer>
     <p>© 2024 Roopteja Boorugupelly</p>
