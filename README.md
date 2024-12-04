@@ -5,7 +5,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>    <h1>portfolio</h1>
+  <header>    <h1>PORTFOLIO</h1>
     <p>.NET Full Stack Developer</p>
     <p>📱 +13144725704 | ✉️ boorugupellyroopteja@gmail.com</p>
   </header>
